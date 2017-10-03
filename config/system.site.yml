@@ -1,0 +1,14 @@
+uuid: 81117757-d5c8-4626-a0d5-484279a4ae7a
+name: dgrant-d8ms
+mail: dgrant@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
