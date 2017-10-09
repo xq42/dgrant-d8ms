@@ -6,4 +6,4 @@ Feature: Confirm that configuration was applied
   @api
   Scenario: Add a basic page
     Given I am on "/"
-    Then I should see "D8 Megasite - dgrant""
+    Then I should see "D8 Megasite - dgrant"
